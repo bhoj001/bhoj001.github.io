@@ -36,7 +36,8 @@ A passionate software developer with demonstrated skill in all forms of software
 -  Version control: ​GitHub and gitlab​   
 -  Platforms: ​Linux and windows​
 -  DevOps tools and others: ​bash script, docker, aws, heroku, linux, nginx,redis, celery​ 
--  CI/CD: ​jenkins, gitlab​8)​​Project management: ​Asana, Trello​ 
+-  CI/CD: ​jenkins, gitlab​
+-  Project management: ​Asana, Trello​ 
 -  Design tools:​ Adobe XD, gimp, photoshop​
 -  Communication:​ slack, hexchat, skype​ 
 -  CMS: ​Wordpress, django CMS​

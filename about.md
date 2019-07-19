@@ -26,20 +26,20 @@ A passionate software developer with demonstrated skill in all forms of software
 - Project management    
 
 ## Technical skills :
-1)Programming languages​:
-  a)fluent: ​python, javascript, JQuery, AJAX, C#(.net)
-  b)familiar: ​Java, C/C++, php, shell scripting, nodejs
-2)Databases: ​Postgres, MySQL, MSSQL, SQLite, Access Database,MongoDB,elasticsearch
-3)Framework:
-  a)Front-end: ​Vue.js, React
-  b)Backend: ​Django(python)      
-4) Version control: ​GitHub and gitlab​   
-5)​​ Platforms: ​Linux and windows​
-6) DevOps tools and others: ​bash script, docker, aws, heroku, linux, nginx, redis, celery​ 
-7) CI/CD: ​jenkins, gitlab​8)​​Project management: ​Asana, Trello​ 
-9) Design tools:​ Adobe XD, gimp, photoshop​
-10) Communication:​ slack, hexchat, skype​ 
-11) CMS: ​Wordpress, django CMS​
-12) Other tools: ​html5, css3, bootstrap, sass, gulp​ 
-13) Familiar with framework: ​.NET and android studio​
-14) Fluent in languages:​ English, Nepali and Hindi.
+- Programming languages​:
+  - fluent: ​python, javascript, JQuery, AJAX, C#(.net)
+  - familiar: ​Java, C/C++, php, shell scripting, nodejs
+- Databases: ​Postgres, MySQL, MSSQL, SQLite, Access Database,MongoDB,elasticsearch
+- Framework:
+  - Front-end: ​Vue.js, React
+  - Backend: ​Django(python)      
+-  Version control: ​GitHub and gitlab​   
+-  Platforms: ​Linux and windows​
+-  DevOps tools and others: ​bash script, docker, aws, heroku, linux, nginx,redis, celery​ 
+-  CI/CD: ​jenkins, gitlab​8)​​Project management: ​Asana, Trello​ 
+-  Design tools:​ Adobe XD, gimp, photoshop​
+-  Communication:​ slack, hexchat, skype​ 
+-  CMS: ​Wordpress, django CMS​
+-  Other tools: ​html5, css3, bootstrap, sass, gulp​ 
+-  Familiar with framework: ​.NET and android studio​
+-  Fluent in languages:​ English, Nepali and Hindi.

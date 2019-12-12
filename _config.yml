@@ -64,8 +64,8 @@ links:
     url: /about/
   - title: Courses
     url: /courses/
-  - title: Resume
-    url: /images/CV_Bhoj.pdf
+  # - title: Resume
+  #   url: /images/CV_Bhoj.pdf
   # - title: Contact
   #   url: /contact/
     external: true

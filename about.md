@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Bhoj bahadur karki
 tagline: A Minimal Jekyll Theme
-tags: [about, manoj gautam]
+tags: [about, bhoj bahadur karki]
 
 
 modified: 9-9-2013

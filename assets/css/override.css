@@ -54,13 +54,16 @@ html,body{
     height: 3px;
     bottom: 2px;
     left: 0;
-    background-color: white;
     visibility: hidden;
     text-decoration: none;
+    background-color:#fff;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
-    -webkit-transition: all 0.3s ease-in-out 0s;
-    transition: all 0.3s ease-in-out 0s;
+    -webkit-transform-origin: bottom right;
+    transform-origin: bottom left;
+    transition: -webkit-transform .5s;
+    transition: transform .5s;
+    transition: transform .5s,-webkit-transform .5s;
   }
 
 

@@ -32,7 +32,7 @@ A passionate software developer with demonstrated skill in all forms of software
 - Databases: ​Postgres, MySQL, MSSQL, SQLite, Access Database,MongoDB,elasticsearch
 - Framework:
   - Front-end: ​Vue.js, React
-  - Backend: ​Django(python)      
+  - Backend: ​Django(python)
 -  Version control: ​GitHub and gitlab​   
 -  Platforms: ​Linux and windows​
 -  DevOps tools and others: ​bash script, docker, aws, heroku, linux, nginx,redis, celery​ 
@@ -46,5 +46,5 @@ A passionate software developer with demonstrated skill in all forms of software
 -  Familiar with framework: ​.NET and android studio​
 -  Fluent in languages:​ English, Nepali and Hindi.
 
-### Publications: 
+### Publications:
 Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT, Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018

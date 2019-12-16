@@ -9,14 +9,14 @@ owner:
   name:           Bhoj Bahadur Karki
   avatar:         bhoj.jpg
   bio:            ""
-  email:           nishantkarki305@gmail.com
+  email:           nishantkarki305@ google mail
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        nishant_2015
-  facebook:       nishant.karki.nepali
+  facebook:       
   github:         bhoj001
-  stackoverflow:  5478955/littlethunder
+  stackoverflow:  
   linkedin:       bbkarki
-  instagram:      nishant_karki
+  instagram:      
   lastfm:
   tumblr:
   pinterest:
@@ -32,14 +32,14 @@ authors:
     name:           Bhoj Bahadur Karki
     avatar:         bhoj.jpg
     bio:            "Describe your self."
-    email:          nishantkarki305@gmail.com
+    email:          nishantkarki305@google mail
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter:        nishant_2015
-    facebook:       nishant.karki.nepali
+    facebook:       
     github:         bhoj001
-    stackoverflow:  5478955/littlethunder
+    stackoverflow:  
     linkedin:       bbkarki    
-    instagram:      nishant_karki
+    instagram:      
     lastfm:
     tumblr:
     pinterest:
@@ -64,11 +64,13 @@ links:
     url: /about/
   - title: Courses
     url: /courses/
+  - title: Post
+    url: /posts/
   # - title: Resume
   #   url: /images/CV_Bhoj.pdf
-  # - title: Contact
-  #   url: /contact/
-    external: true
+  - title: Contact
+    url: /contact/
+    # external: true
  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

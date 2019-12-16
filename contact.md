@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /courses/
-title: Courses 
+permalink: /contact/
+title: Contact 
 description: "This webpage details the course resources that I have tagught for undergraduate students"
 tags: [Undergraduate Courses]
 image:
@@ -10,7 +10,7 @@ image:
 ---
 
 ## You can contact me at:
-- Email: nishantkarki305@gmail.com
+- Email: __nishantkarki305@google mail__
 
 
 

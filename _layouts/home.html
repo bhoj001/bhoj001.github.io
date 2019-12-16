@@ -12,7 +12,7 @@
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
-
+{% comment %}
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -29,12 +29,18 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
+{% endcomment %}
+
+<!-- particles.js container -->
+<div id="particles-js"></div>
+
+
 
 <div class="article-author-side">
   {% include _author-bio.html %}
 </div>
 
-
+<!-- Lets comment here first
 <div class="article-wrap" style="margin:5%;">
 <article >
 	<h1>About Bhoj bahadur karki</h1>
@@ -82,10 +88,14 @@
 	</ul>
 	<div>
 </article>
-</div><!-- /.article-wrap -->
+</div>
+-->
 
-{% comment %} <div id="index">
+<!-- /.article-wrap -->
+
+<div id="index">
   <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+  
   {% for post in site.posts limit:5 %}    
   <article>
     {% if post.link %}
@@ -96,13 +106,19 @@
     {% endif %}
   </article>
   {% endfor %}
-</div><!-- /#index --> {% endcomment %}
+</div><!-- /#index --> 
+
 
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
+
+<!-- scripts  for particle js-->
+<script src="/assets/js/particles.js"></script>
+<script src="/assets/js/app.js"></script>
+<!--End: scripts for particle js-->
 
 {% include _scripts.html %}
   

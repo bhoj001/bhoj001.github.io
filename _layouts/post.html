@@ -12,7 +12,7 @@
 {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
-
+{%comment%}
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -29,12 +29,18 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
+{%endcomment%}
 
+
+<div class="container-div">
 <div id="main" role="main">
   <div class="article-author-side">
+    {% comment %}
+    <!-- this is author side bar page -->
     {% include _author-bio.html %}
+    {%endcomment%}
   </div>
-  <article>
+  <article >
     <div class="headline-wrap">
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
@@ -77,7 +83,7 @@
   {% endif %}
   </article>
 </div><!-- /#main -->
-
+</div>
 <div class="footer-wrap">
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>

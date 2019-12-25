@@ -27,15 +27,15 @@ A passionate software developer with demonstrated skill in all forms of software
 
 ## Technical skills :
 - Programming languages​:
-  - fluent: ​python, javascript, JQuery, AJAX, C#(.net)
-  - familiar: ​Java, C/C++, php, shell scripting, nodejs
-- Databases: ​Postgres, MySQL, MSSQL, SQLite, Access Database,MongoDB,elasticsearch
+  - fluent: ​python, javascript, C#(.net)
+  - familiar: C/C++, ​Java, php, shell scripting, nodejs
+- Databases: ​Postgres, MySQL, MSSQL, SQLite, MongoDB,elasticsearch
 - Framework:
   - Front-end: ​Vue.js, React
   - Backend: ​Django(python)
 -  Version control: ​GitHub and gitlab​   
 -  Platforms: ​Linux and windows​
--  DevOps tools and others: ​bash script, docker, aws, heroku, linux, nginx,redis, celery​ 
+-  DevOps tools and others: docker, aws, heroku, nginx,redis, celery​ 
 -  CI/CD: ​jenkins, gitlab​
 -  Software Testing: Selenium IDE, Selenium Webdriver
 -  Project management: ​Asana, Trello​ 
@@ -43,7 +43,6 @@ A passionate software developer with demonstrated skill in all forms of software
 -  Communication:​ slack, hexchat, skype​ 
 -  CMS: ​Wordpress, django CMS​
 -  Other tools: ​html5, css3, bootstrap, sass, gulp​ 
--  Familiar with framework: ​.NET and android studio​
 -  Fluent in languages:​ English, Nepali and Hindi.
 
 ### Publications:

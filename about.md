@@ -15,7 +15,7 @@ image:
 ---
 
 ### Intro
-A passionate software developer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+A passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
 
 
 

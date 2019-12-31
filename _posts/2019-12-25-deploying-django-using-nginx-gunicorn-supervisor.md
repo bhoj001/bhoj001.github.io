@@ -89,8 +89,8 @@ sudo pip3 install virtualenv
 Lets create a virutal environment and start the virtualenv
 {% highlight python %}
 
-virtualenv /pythonspark/venv
-source /pythonspark/venv/bin/activate
+virtualenv /Projects/venv
+source /Projects/venv/bin/activate
 
 {%endhighlight%}
 
@@ -158,12 +158,12 @@ server{
 	server_name ipaddress(e.g.x.x.x.x);
 	
 	location /static {
-		alias /var/www/html/pythonspark_static_root;
+		alias /var/www/html/Projects_static_root;
 		expires 30d;
 	}
 	
 	location /media {
-	alias /var/www/html/pythonspark_media_root;
+	alias /var/www/html/Projects_media_root;
 	expires 30d;
 	}
 
@@ -198,9 +198,9 @@ and configure our project:
 
 {% highlight python %}
 [program:mysite]
-command=/root/pythonspark/venv/bin/gunicorn --workers 3 --bind 127.0.0.1:8000 mysite.wsgi:application
+command=/root/Projects/venv/bin/gunicorn --workers 3 --bind 127.0.0.1:8000 mysite.wsgi:application
 environment=DJANGO_SETTINGS_MODULE=mysite.settings.production
-directory=/root/pythonspark/mysite
+directory=/root/Projects/mysite
 autostart=true
 autorestart=true
 stderr_logfile=/var/log/mysite.err.log

@@ -29,21 +29,10 @@ A passionate software engineer with demonstrated skill in all forms of software 
 - Programming languages​:
   - fluent: ​python, javascript, C#(.net)
   - familiar: C/C++, ​Java, php, shell scripting, nodejs
-- Databases: ​Postgres, MySQL, MSSQL, SQLite, MongoDB,elasticsearch
-- Framework:
-  - Front-end: ​Vue.js, React
-  - Backend: ​Django(python)
--  Version control: ​GitHub and gitlab​   
--  Platforms: ​Linux and windows​
--  DevOps tools and others: docker, aws, heroku, nginx,redis, celery​ 
--  CI/CD: ​jenkins, gitlab​
--  Software Testing: Selenium IDE, Selenium Webdriver
--  Project management: ​Asana, Trello​ 
--  Design tools:​ Adobe XD, gimp, photoshop​
--  Communication:​ slack, hexchat, skype​ 
--  CMS: ​Wordpress, django CMS​
--  Other tools: ​html5, css3, bootstrap, sass, gulp​ 
--  Fluent in languages:​ English, Nepali and Hindi.
+
+- Framework/Other Tools:​​Postgres, MySQL, MSSQL, SQLite, MongoDB,elasticsearch, Vue.js, React, Django(python),GitHub, gitlab,​Linux, windows​,docker, aws,      heroku, nginx,redis, celery​, ​jenkins,​Selenium IDE, Selenium Webdriver,
+  ​Asana, Trello​ , Adobe XD, gimp, photoshop​,slack, hexchat, skype​ ,​Wordpress, django CMS​,html5, css3, bootstrap, sass, gulp​ 
+
 
 ### Publications:
 Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT, Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018

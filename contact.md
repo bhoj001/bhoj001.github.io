@@ -10,7 +10,7 @@ image:
 ---
 
 ## You can contact me at:
-- Email: __nishantkarki305@google mail__
+- Email: __bbk2049@google mail__
 
 
 

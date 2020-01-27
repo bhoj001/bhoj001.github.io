@@ -55,7 +55,8 @@
         <div class="article-author-bottom">
           {% include _author-bio.html %}
         </div>
-
+        
+      {% comment %}
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <a href="{{ site.url }}/about" title="About {{ site.owner.name }}">
         {% assign authorCount = page.authors | size %}
         {% if authorCount == 0 %}
@@ -76,6 +77,10 @@
             {% endfor %}
         {% endif %}
       </a>.</p>
+       {%endcomment%}
+       Published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+       {% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} 
+       by <a href="{{ site.url }}/about" title="About {{ site.owner.name }}" class="custom_text_color_blue">{{ site.owner.name }}</a>.
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.disqus_shortname and page.comments %}

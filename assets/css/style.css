@@ -1,5 +1,7 @@
 /* =============================================================================
    My CSS this css is for particleJS file 
+   author: bhoj bahadur karki
+   purpose: to add different custom css
    ========================================================================== */
 
 /* ---- base ---- */
@@ -28,4 +30,17 @@ canvas {
   background-size: cover;
   background-position: 50% 30%;
   background-repeat: no-repeat;
+}
+
+/* For increasing code size */
+figure.highlight code {
+  font-size: 16px;
+}
+
+.container-div {
+  font-size: 18px;
+}
+
+.custom_text_color_blue{
+  color:#3498db!important;  
 }

@@ -90,8 +90,9 @@ DEPENDENCIES
   kramdown
   pygments.rb (~> 1.2, >= 1.2.1)
   rake
+  rouge
   stringex
   thor
 
 BUNDLED WITH
-   1.16.2
+   1.16.5

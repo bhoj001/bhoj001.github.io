@@ -1,7 +1,7 @@
 ---
-layout: page
-permalink: /about/
-title: About Bhoj bahadur karki
+layout: about_page
+permalink: /portfolio/
+title: Portfoli/Work
 tagline: A Minimal Jekyll Theme
 tags: [about, bhoj bahadur karki]
 
@@ -14,9 +14,19 @@ image:
   creditlink: http://www.flickr.com/photos/yndra
 ---
 
+<!-- ## Portfoli/Works -->
+<!-- #### Web application
+- [Pustakalaya.org](https://pustakalaya.org/en/)
+- PythonSpark.com
+- Dhuni.io
+
+#### Desktop application
+- Iot/realtime based Psychometric chart
+- Pressure-Enthalpy Chart(PH chart)  -->
+
+
 ### Intro
 A passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
-
 
 
 ## Skills 

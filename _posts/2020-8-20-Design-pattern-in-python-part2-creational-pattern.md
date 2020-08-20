@@ -172,7 +172,7 @@ Output:
 {% endhighlight %}
 
 ### Factory design patter:
-This patterns helps to create object without giving underlying details to client and communicating to those created object via common interfact. 
+This pattern helps to create object without giving underlying details to client and communicating to those created object via common interfact. 
 Following example illustrates factory design pattern:
 
 {% highlight python %}

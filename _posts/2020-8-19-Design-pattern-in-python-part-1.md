@@ -2,7 +2,7 @@
 layout: post
 title: "Design pattern in python- part1 Introduction"
 description: "Design pattern"
-# tags: [sample post, link post]
+tags: [python, design-pattern]
 # link: http://mademistakes.com  
 published: true
 authors: 'Bhoj Bahadur Karki'

@@ -11,7 +11,7 @@ owner:
   bio:            ""
   email:           bbk2049@ google mail
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter:        nishant_2015
+  twitter:       
   facebook:       
   github:         bhoj001
   stackoverflow:  
@@ -34,7 +34,7 @@ authors:
     bio:            "Describe your self."
     email:          bbk2049@google mail
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
-    # twitter:        nishant_2015
+    twitter:       
     facebook:       
     github:         bhoj001
     stackoverflow:  

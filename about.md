@@ -48,7 +48,7 @@ Hi there,
 
 
 ### <u> Awards and Recognition</u>
-- Academic excellence award, University of Louisiana at Lafaytte
+- __Academic excellence award__, 2023, University of Louisiana at Lafaytte
 - GTA and GRA Scholarship, University of Louisiana at Lafaytte
 - Full Scholarship for Computer Engineering, Pokhara University
 

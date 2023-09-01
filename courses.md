@@ -9,22 +9,28 @@ image:
   credit: Amar Subedi #TODO
 ---
 
-## I can teach following courses to students:
-## Credit course
+## Previous teaching experience:
+I TA for following courses in [University of Louisiana at Lafayette](https://louisiana.edu/)
 
-- Computer Architecture
+- CMPS 261(UG) Advanced data structure and software engineering,
+- CMPS 327(UG) Introduction to Video Game Design and Development, 
+- CMPS 427(G) Video Game Design And Development
+- __<i>email: bhoj.karki1@louisiana.edu</i>__
+
+
+
+In my initial days of starting career, I also taught:
+## Credit course
 - Data structure and algorithms
 - Database programming
-- C/C++ programming
-- OOP with Java 
+- python/C/C++ programming
 
 
 ## Non Credit courses
 
 - Python programming
-- Java programming 
 - Web development with python and django
-- Design patterns
+
 
 
 

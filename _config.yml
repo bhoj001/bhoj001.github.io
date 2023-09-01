@@ -6,12 +6,12 @@ disqus_shortname: bhoj001
 
 # Owner/author information
 owner:
-  name:           Bhoj Bahadur Karki
+  name:           Bhoj Karki
   avatar:         bhoj.jpg
   bio:            ""
   email:           bbk2049@ google mail
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        nishant_2015
+  # twitter:        nishant_2015
   facebook:       
   github:         bhoj001
   stackoverflow:  
@@ -29,12 +29,12 @@ owner:
 # Author(s) information
 authors:
   author1:
-    name:           Bhoj Bahadur Karki
+    name:           Bhoj Karki
     avatar:         bhoj.jpg
     bio:            "Describe your self."
     email:          bbk2049@google mail
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
-    twitter:        nishant_2015
+    # twitter:        nishant_2015
     facebook:       
     github:         bhoj001
     stackoverflow:  

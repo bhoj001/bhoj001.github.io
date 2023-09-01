@@ -25,17 +25,20 @@ image:
 - Pressure-Enthalpy Chart(PH chart)  -->
 
 
-### Intro
-A passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+### <u> Intro </u>
+Hi there, 
+* I'm a passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+
+* I am also experienced in data engineering roles. In previous work I have experience in building ETL piplelines and data processing.
 
 
-## Skills 
+### <u> Skills </u>
 - Software development and architecting   
 - System design, devops and Administration
 - Programming Language Teaching(especially python/C/C++)  
 - Project management    
 
-## Technical skills :
+### <u> Technical skills </u>
 - Programming languages​:
   - fluent: ​python, javascript, C#(.net)
   - familiar: C/C++, ​Java, php, shell scripting, nodejs
@@ -44,10 +47,15 @@ A passionate software engineer with demonstrated skill in all forms of software 
   ​Asana, Trello​ , Adobe XD, gimp, photoshop​,slack, hexchat, skype​ ,​Wordpress, django CMS​,html5, css3, bootstrap, sass, gulp​ 
 
 
-### Publications:
-Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT, Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018
+### <u> Awards and Recognition</u>
+- Academic excellence award, University of Louisiana at Lafaytte
+- GTA and GRA Scholarship, University of Louisiana at Lafaytte
+- Full Scholarship for Computer Engineering, Pokhara University
 
-### Awards and Recognition:
+
+### <u> Publications </u>
+- Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018
 
 
-### Voluntering and Community Service:
+### <u> Voluntering and Community Service </u>
+- Science day voluntering, University of Louisiana at Lafayette

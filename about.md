@@ -46,3 +46,8 @@ A passionate software engineer with demonstrated skill in all forms of software 
 
 ### Publications:
 Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT, Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018
+
+### Awards and Recognition:
+
+
+### Voluntering and Community Service:

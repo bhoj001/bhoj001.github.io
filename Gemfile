@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.7', '>= 3.7.2'
+gem 'jekyll','~> 4.3', '>= 4.3.2' #'~> 3.7', '>= 3.7.2'
 gem 'kramdown'
 gem 'coderay'
 gem 'rake'

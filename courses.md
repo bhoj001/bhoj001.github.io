@@ -10,7 +10,7 @@ image:
 ---
 
 ## Previous teaching experience:
-I TA for following courses in [University of Louisiana at Lafayette](https://louisiana.edu/)
+I was <span style="color: #1abc9c;"><ins>__Teaching Assistant(TA)__</ins></span> for following courses in <span style="color: #1abc9c;"><ins>[University of Louisiana at Lafayette](https://louisiana.edu/)</ins></span>
 
 - CMPS 261(UG) Advanced data structure and software engineering,
 - CMPS 327(UG) Introduction to Video Game Design and Development, 

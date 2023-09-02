@@ -7,7 +7,7 @@ disqus_shortname: bhoj001
 # Owner/author information
 owner:
   name:           Bhoj Karki
-  avatar:         bhoj.jpg
+  avatar:         bhoj1.jpg
   bio:            ""
   email:           bbk2049@ google mail
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -30,7 +30,7 @@ owner:
 authors:
   author1:
     name:           Bhoj Karki
-    avatar:         bhoj.jpg
+    avatar:         bhoj1.jpg
     bio:            "Describe your self."
     email:          bbk2049@google mail
     # Social networking links are used in author-bio sidebar. Update and remove as you like.

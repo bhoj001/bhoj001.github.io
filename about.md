@@ -27,7 +27,9 @@ image:
 
 ### <u> Intro </u>
 Hi there, 
-* I'm a passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+* I'm a graduate student in University of Louisiana at Lafayette with Master's degree in Computer Science. I'm open to __full-time positions__ starting October, 2023. I am interested in persuing my career in software engineering and data engineering roles. In my past experiences I have work in software engineering and data engineering roles.  
+
+* To know more about me, I'm a passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
 
 * I am also experienced in data engineering roles. In previous work I have experience in building ETL piplelines and data processing.
 
@@ -39,12 +41,13 @@ Hi there,
 - Project management    
 
 ### <u> Technical skills </u>
-- Programming languages​:
-  - fluent: ​python, javascript, C#(.net)
-  - familiar: C/C++, ​Java, php, shell scripting, nodejs
-
-- Framework/Other Tools:​​Postgres, MySQL, MSSQL, SQLite, MongoDB,elasticsearch, Vue.js, React, Django(python),GitHub, gitlab,​Linux, windows​,docker, aws,      heroku, nginx,redis, celery​, ​jenkins,​Selenium IDE, Selenium Webdriver,
-  ​Asana, Trello​ , Adobe XD, gimp, photoshop​,slack, hexchat, skype​ ,​Wordpress, django CMS​,html5, css3, bootstrap, sass, gulp​ 
+- __Languages__: Python, JavaScript, C/C++, Java, C#, SQL, php, Shell scripting
+- __Frameworks__: Django, Flask, React, Vue, SQLServer, PostgreSQL, jQuery, bootstrap
+- __ML Libraries and Tools__: Sklearn, NumPy, Pandas, Tensorflow, Keras, PyTorch, SciPy, Gensim, Matplotlib, Seaborn
+- __Project Management__: Jira, Trello, Monday, Asana, Github, GitLab
+- __Databases__: Postgres, MySQL, MSSQL, SQLite, MongoDB, Elasticsearch 
+- __Communication__: Slack, hexchat​
+- __Other Tools__: AWS, Docker, Git, Jira, Postman, Swagger, Linux, nodejs, REST API, SOAP API, JSON, Heroku, Nginx, Redis, Celery, Jenkins, UnitTest, Selenium IDE, Selenium Webdriver, Sass, Gulp, CSS, LATEX 
 
 
 ### <u> Awards and Recognition</u>

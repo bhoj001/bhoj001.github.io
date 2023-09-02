@@ -11,6 +11,7 @@ image:
 
 ## You can contact me at:
 - Email: __bbk2049@google mail__
+- Altenate Email: __bhoj.karki1@louisiana.edu__
 
 
 

@@ -25,24 +25,39 @@ image:
 - Pressure-Enthalpy Chart(PH chart)  -->
 
 
-### Intro
-A passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+### <span style="color:#2980b9"><u> Intro </u></span>
+Hi there, 
+* I'm Bhoj Karki who graduated from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span> starting October, 2023. I am interested in persuing my career in software engineering and data engineering roles. In my past experiences I have work in software engineering and data engineering roles.  
+
+* To know more about me, I'm a passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+
+* I am also experienced in data engineering roles. In previous work I have experience in building ETL piplelines and data processing.
 
 
-## Skills 
+### <span style="color:#2980b9"><u> Skills </u></span>
 - Software development and architecting   
 - System design, devops and Administration
-- Programming Language Teaching(especially python/C/C++)  
 - Project management    
 
-## Technical skills :
-- Programming languages​:
-  - fluent: ​python, javascript, C#(.net)
-  - familiar: C/C++, ​Java, php, shell scripting, nodejs
+### <span style="color:#2980b9"><u> Technical skills </u></span>
+- <span style="color: #1abc9c;"> __Languages__ :</span> Python, JavaScript, C/C++, Java, C#, SQL, php, Shell scripting
+- <span style="color: #1abc9c;"> __Frameworks__ :</span> Django, Flask, React, Vue, SQLServer, PostgreSQL, jQuery, bootstrap
+- <span style="color: #1abc9c;"> __ML Libraries and Tools__:</span> Sklearn, NumPy, Pandas, Tensorflow, Keras, PyTorch, SciPy, Gensim, Matplotlib, Seaborn
+- <span style="color: #1abc9c;"> __Project Management__:</span> Jira, Trello, Monday, Asana, Github, GitLab
+- <span style="color: #1abc9c;"> __Databases__:</span> Postgres, MySQL, MSSQL, SQLite, MongoDB, Elasticsearch 
+- <span style="color: #1abc9c;"> __Communication__:</span> Slack, hexchat​
+- <span style="color: #1abc9c;"> __Other Tools__:</span> AWS, Docker, Git, Jira, Postman, Swagger, Linux, nodejs, REST API, SOAP API, JSON, Heroku, Nginx, Redis, Celery, Jenkins, UnitTest, Selenium IDE, Selenium Webdriver, Sass, Gulp, CSS, LATEX 
 
-- Framework/Other Tools:​​Postgres, MySQL, MSSQL, SQLite, MongoDB,elasticsearch, Vue.js, React, Django(python),GitHub, gitlab,​Linux, windows​,docker, aws,      heroku, nginx,redis, celery​, ​jenkins,​Selenium IDE, Selenium Webdriver,
-  ​Asana, Trello​ , Adobe XD, gimp, photoshop​,slack, hexchat, skype​ ,​Wordpress, django CMS​,html5, css3, bootstrap, sass, gulp​ 
+
+### <span style="color:#2980b9"><u> Awards and Recognition</u></span>
+- <ins>__Academic excellence award__</ins>, 2023, University of Louisiana at Lafaytte
+- GTA and GRA Scholarship, University of Louisiana at Lafaytte
+- Full Scholarship for Computer Engineering, Pokhara University
 
 
-### Publications:
-Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT, Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018
+### <span style="color:#2980b9"><u> Publications </u></span>
+- Research paper: Comparative study on OMR(Optical mark recognition) - on NASCOIT Nepal. Author(s): Bhoj Bahadur Karki and Nirman Giri, year published: 2018
+
+
+### <span style="color:#2980b9"><u> Voluntering and Community Service </u></span>
+- Science day voluntering, University of Louisiana at Lafayette

@@ -5,8 +5,8 @@ description: "Deploying django app on VPS"
 # tags: [sample post, link post]
 # link: http://mademistakes.com  
 published: true
-authors: 'Bhoj Bahadur Karki'
-name: 'Bhoj Bahadur Karki'
+authors: 'Bhoj Karki'
+name: 'Bhoj Karki'
 share: true
 ---
 We have used:

@@ -42,9 +42,20 @@
   <!-- Lets add some js and navigation -->
 
   <div class="container">
-    <h1>{{ page.title }}</h1>
+    
 
-        <div class="row">
+    <!-- <article> -->
+      <div class="article-wrap">
+        {{ content }}
+        </div><!-- /.article-wrap -->
+        {% if site.disqus_shortname and page.comments %}
+        <section id="disqus_thread"></section><!-- /#disqus_thread -->
+        {% endif %}
+  <!-- </article> -->
+  
+  <h1>{{ page.title }}</h1>
+
+    <div class="row">
 
           <div class="col-md-3 col-sm-4 col-12 m-1">
             <div class="grid-book-cont card">
@@ -225,14 +236,7 @@
     
 
   
-  <!-- <article> -->
-        <div class="article-wrap">
-        {{ content }}
-        </div><!-- /.article-wrap -->
-        {% if site.disqus_shortname and page.comments %}
-        <section id="disqus_thread"></section><!-- /#disqus_thread -->
-        {% endif %}
-  <!-- </article> -->
+  
 
 </div> <!--Close of container -->
 

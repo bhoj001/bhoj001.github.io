@@ -27,9 +27,9 @@ image:
 
 ### <span style="color:#2980b9"><u> Intro </u></span>
 Hi there, 
-* I'm Bhoj Karki who graduated from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span> starting October, 2023. I am interested in persuing my career in software engineering and data engineering roles. In my past experiences I have work in software engineering and data engineering roles.  
+* I'm Bhoj Karki a graduate from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span>. I am interested in persuing my career in software engineering and data engineering roles. In my past experiences I have work in software engineering and data engineering roles.  
 
-* To know more about me, I'm a passionate software engineer with demonstrated skill in all forms of software development from planning/design to development and finally to deployment.
+* To know more about me, I'm a passionate software engineer with demonstrated skill across the SDLC.
 
 * I am also experienced in data engineering roles. In previous work I have experience in building ETL piplelines and data processing.
 

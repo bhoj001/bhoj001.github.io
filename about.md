@@ -27,11 +27,7 @@ image:
 
 ### <span style="color:#2980b9"><u> Intro </u></span>
 Hi there, 
-* I'm Bhoj Karki a graduate from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span>. I am interested in persuing my career in software engineering and data engineering roles. In my past experiences I have work in software engineering and data engineering roles.  
-
-* To know more about me, I'm a passionate software engineer with demonstrated skill across the SDLC.
-
-* I am also experienced in data engineering roles. In previous work I have experience in building ETL piplelines and data processing.
+* I'm Bhoj Karki, a full stack developer with 7+ years of experience in software development, skilled in Python, Javascript, RestAPI, Django, React, SQL. I graduated from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span>. I am interested in persuing my career in full stack development and data engineering roles. 
 
 
 ### <span style="color:#2980b9"><u> Skills </u></span>
@@ -40,7 +36,7 @@ Hi there,
 - Project management    
 
 ### <span style="color:#2980b9"><u> Technical skills </u></span>
-- <span style="color: #1abc9c;"> __Languages__ :</span> Python, JavaScript, C/C++, Java, C#, SQL, php, Shell scripting
+- <span style="color: #1abc9c;"> __Languages__ :</span> Main: Python, JavaScript, SQL, Familiar Languages (C/C++, Java, C#,  php, Shell scripting)
 - <span style="color: #1abc9c;"> __Frameworks__ :</span> Django, Flask, React, Vue, SQLServer, PostgreSQL, jQuery, bootstrap
 - <span style="color: #1abc9c;"> __ML Libraries and Tools__:</span> Sklearn, NumPy, Pandas, Tensorflow, Keras, PyTorch, SciPy, Gensim, Matplotlib, Seaborn
 - <span style="color: #1abc9c;"> __Project Management__:</span> Jira, Trello, Monday, Asana, Github, GitLab

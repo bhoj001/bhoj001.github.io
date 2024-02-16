@@ -2,7 +2,7 @@
 layout: post
 title: "Deploying django app on VPS using nginx,gunicorn, supervisor "
 description: "Deploying django app on VPS"
-# tags: [sample post, link post]
+tags: [deployment, nginx, gunicorn]
 # link: http://mademistakes.com  
 published: true
 authors: 'Bhoj Karki'

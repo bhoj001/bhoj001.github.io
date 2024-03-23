@@ -27,7 +27,7 @@ image:
 
 ### <span style="color:#2980b9"><u> Intro </u></span>
 Hi there, 
-* I'm Bhoj Karki, a master's graduate with multiple years of experience in software development, skilled in Python, Javascript, SQL, AWS, RestAPI, Django, React. I graduated from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span>. I am interested in persuing my career in full stack development and data engineering roles. 
+* I'm Bhoj Karki, a master's graduate with multiple years of experience as data analyst, data engineer, data scientist and software engineer, skilled in Python, Javascript, SQL, AWS, RestAPI, Django, React. I graduated from <span style="color: #1abc9c;"><ins>__University of Louisiana at Lafayette__</ins></span> with <span style="color: #1abc9c;"><ins>__Master's degree in Computer Science__</ins></span> with a <span style="color: #1abc9c;"><ins>GPA of 4.0/4.0</ins></span> and <span style="color: #1abc9c;"><ins>Academic Excellence Award</ins></span>. I'm open to <span style="color: #1abc9c;"><ins> __full-time positions__</ins></span>. I am interested in persuing my career in data analyst/engineer/scientist and full stack development. I have taken and enjoy taking responsibilties that are diverse and that benefit the organization.   
 
 
 ### <span style="color:#2980b9"><u> Skills </u></span>

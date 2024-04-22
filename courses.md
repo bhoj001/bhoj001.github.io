@@ -15,15 +15,14 @@ I was <span style="color: #1abc9c;"><ins>__Teaching Assistant(TA)__</ins></span>
 - CMPS 261(UG) Advanced data structure and software engineering,
 - CMPS 327(UG) Introduction to Video Game Design and Development, 
 - CMPS 427(G) Video Game Design And Development
-- __<i>email: bhoj.karki1@louisiana.edu</i>__
 
 
 
 In my initial days of starting career, I also taught:
 ## Credit course
-- Data structure and algorithms
-- Database programming
-- python/C/C++ programming
+- Data structure and algorithms using Java
+- Database programming with SQL
+- Python/C/C++ programming
 
 
 ## Non Credit courses

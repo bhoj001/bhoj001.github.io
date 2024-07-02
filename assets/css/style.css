@@ -1,0 +1,46 @@
+/* =============================================================================
+   My CSS this css is for particleJS file 
+   author: bhoj bahadur karki
+   purpose: to add different custom css
+   ========================================================================== */
+
+/* ---- base ---- */
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  /* background:#111; */
+}
+
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  width: 100%;
+  height: 300px !important;
+  background-color: #202d2a;
+  background-image: url('../images/earth_man.jpg');
+  background-size: cover;
+  background-position: 50% 30%;
+  background-repeat: no-repeat;
+}
+
+/* For increasing code size */
+figure.highlight code {
+  font-size: 16px;
+}
+
+.container-div {
+  font-size: 18px;
+}
+
+.custom_text_color_blue{
+  color:#3498db!important;  
+}

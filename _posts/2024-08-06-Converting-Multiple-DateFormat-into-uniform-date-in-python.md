@@ -9,7 +9,14 @@ authors: 'Bhoj Bahadur Karki'
 name: 'Bhoj Bahadur Karki'
 share: True
 ---
+
+
+
 Problem Statement:
+
+---
+
+
 
 Imagine you are receiving data for an ETL pipeline from multiple sources, each with a different datetime format for when the items are created. Through the ETL process, this data is collected into a single Excel file where you must convert the datetime values to a standard format before inserting them into the data warehouse.
 
@@ -35,17 +42,12 @@ Solution:
 
 We can use python pandas to convert the list of dates into data frame and then use apply function to apply parse date function. The parse date function uses python datetime.strptime() function.
 
-
 We can use Python Pandas to convert the list of dates into a DataFrame and then use the `apply` function to apply the`parse_date`function. The`parse_date`function utilizes Python's`datetime.strptime()` function.
 
+  
 
 About the `datetime.strptime()` class method:
-It parses a string into a datetime object given a corresponding format
-
-
-
-About datetime.strptime() class method:
-It parses a string into a datetime object given a corresponding format
+It parses a string into a datetime object given a corresponding format.
 
 Syntax:
 

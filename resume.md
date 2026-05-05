@@ -1,1 +1,4 @@
-h1
+run locally:
+
+>> bundle exec jekyll serve
+

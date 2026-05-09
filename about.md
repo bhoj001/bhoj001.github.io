@@ -1,9 +1,9 @@
 ---
 layout: about_page
-permalink: /portfolio/
-title: selective past work as senior engineer
+permalink: /about/
+# title: selective past work as senior engineer
 tagline: A Minimal Jekyll Theme
-tags: [about, bhoj bahadur karki]
+# tags: [about, bhoj bahadur karki]
 
 
 modified: 9-9-2013
@@ -41,7 +41,7 @@ image:
 
 Hi, I’m <strong>Bhoj</strong> — a Master’s graduate in Computer Science from the <a href="https://louisiana.edu/">University of Louisiana at Lafayette</a>.
 
-<br>
+<!-- <br>
 I build <strong>scalable data systems</strong> and <strong>ML platforms</strong> that turn raw data into reliable, production-ready insights. My work spans <em>data engineering, backend systems, and applied machine learning</em>.
 
 ---
@@ -61,7 +61,7 @@ I build <strong>scalable data systems</strong> and <strong>ML platforms</strong>
 - 🤖 Design <strong>ML platforms</strong> from research to production  
 - 📊 Convert complex data into <strong>actionable insights</strong>  
 
----
+--- -->
 
 ### <span style="color:#16a085;">🔬 Research & Experience</span>
 

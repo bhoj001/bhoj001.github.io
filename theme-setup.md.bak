@@ -65,7 +65,7 @@ General notes and suggestions for customizing Minimal Jekyll Theme.
 |    |   └── vendor/             # vendor scripts to leave alone and load as is
 |    └── less/
 ├── images/                      # images for posts and pages
-├── about.md                     # sample about page
+├── md                     # sample about page
 ├── posts.md                     # sample post index page. lists all posts in reverse chronology
 └── index.md                     # sample homepage. lists 5 latest posts
 {% endhighlight %}

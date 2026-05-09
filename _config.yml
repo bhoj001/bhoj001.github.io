@@ -13,7 +13,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:       
   facebook:       
-  github:         bhoj001
+  # github:         bhoj001
   stackoverflow:  
   linkedin:       karki305
   instagram:      
@@ -36,7 +36,7 @@ authors:
     # Social networking links are used in author-bio sidebar. Update and remove as you like.
     twitter:       
     facebook:       
-    github:         bhoj001
+    # github:         bhoj001
     stackoverflow:  
     linkedin:       bbkarki    
     instagram:      
@@ -60,16 +60,17 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Portfolio
-    url: /portfolio/
-  - title: Courses
-    url: /courses/
-  - title: Post
-    url: /posts/
+  - title: Articles
+    url: /articles/
+  - title: About
+    url: /about/
+  # - title: Courses
+  #   url: /courses/
+
   # - title: Resume
   #   url: /images/BhojResume.pdf
-  - title: Contact
-    url: /contact/
+  # - title: Contact
+  #   url: /contact/
     # external: true
  
 
